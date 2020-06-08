@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+::selection {
+  background-color: #5448c8;
+  color: #fff;
+}
+
+.purple {
+  background-color: #5448c8;
+}

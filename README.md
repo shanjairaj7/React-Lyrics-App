@@ -1,3 +1,3 @@
-# Github app using React & Github API
+# Lyrics App using React & Axios
 
 React & Axios (API Handling)

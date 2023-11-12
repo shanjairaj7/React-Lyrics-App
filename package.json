@@ -10,7 +10,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "autoprefixer": "^9.8.0",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "medium": "^1.0.2",
     "moment": "^2.26.0",
     "postcss-cli": "^7.1.1",
